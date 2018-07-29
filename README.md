@@ -1,5 +1,5 @@
 # Kaggle-Rental-Listing-Inquiries
-Xgboost
+Xgboost / LinearRegression / SVM
 
 ## 1 任务说明：
     Rental Listing Inquiries 数据集是 Kaggle 平台上的一个分类竞赛任务。
