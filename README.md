@@ -11,7 +11,7 @@ Xgboost
     
 ## 2 数据说明：
     为减轻对特征工程的入手难度，以及统一标准，数据使用特征工程编码后的数据：
-    （RentListingInquries_FE_train.csv）或稀疏编码的形式（RentListingInquries_FE_train.bin）。 
+    RentListingInquries_FE_train.csv，或稀疏编码的形式：RentListingInquries_FE_train.bin 
     xgboost 既可以单独调用，也可以在sklearn 框架下调用。
     若采用 xgboost 单独调用使用方式，建议读取稀疏格式文件。
     
